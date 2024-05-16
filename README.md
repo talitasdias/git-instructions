@@ -3,6 +3,7 @@ Um guia com instruções básicas do Git
 
 ## Índice
 - [Como instalar o Git no Ubuntu](#como-instalar-o-git-no-ubuntu)
+- [Configurações básicas do Git](#configurações-básicas-do-git)
 ______________________________________________________________________
 
 ## Como Instalar o Git no Ubuntu
@@ -18,3 +19,15 @@ sudo apt update
 ```
 sudo apt install git
 ```
+
+## Configurações Básicas do Git
+1. No terminal, execute o comando abaixo para configurar globalmente o nome de usuário:
+```
+git config --global user.name SEUNOMEAQUI
+```
+Isso é útil para garantir que os commits feitos em todos os seus repositórios Git usem o mesmo nome de usuário.
+2. Você pode também configurar um e-mail:
+```
+git config --global user.email EMAIL@EMAIL.COM
+```
+Isso é útil para garantir que as contribuições e atividades sejam atribuídas corretamente a você nos repositórios Git.
