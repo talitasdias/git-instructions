@@ -40,3 +40,9 @@ git config --global init.defaultBranch main
 ```
 
 ## Configurando a Autenticação do Git com Token no GitHub
+Para usar o Git e enviar suas alterações para o GitHub, é preciso se autenticar. Isso pode ser feito de duas maneiras: usando Tokens ou uma Chave SSH.
+Os tokens são úteis porque podem guardar suas informações sem precisar salvar no servidor. Você pode configurá-los para ter as permissões que quiser e eles têm uma data de validade. Isso significa que param de funcionar depois de um tempo, como uma senha única que você usa só uma vez.
+
+### Criando um Token
+1. Faça login na sua conta [https://github.com/](GitHub)
+2. 
