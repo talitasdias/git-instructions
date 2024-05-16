@@ -58,11 +58,11 @@ Os tokens são úteis porque podem guardar suas informações sem precisar salva
 Para não precisar copiar e colar o Token sempre que for realizar uma autenticação, o Git armazena temporariamente ou permanentemente suas credenciais (como nome de usuário e senha). Para isso, realize os seguintes passos:
 
 1. Salve suas credenciais
-Use o seguinte comando para salvar temporariamente:
+- Use o seguinte comando para salvar temporariamente:
 ```
 git config --global credential.helper cache
 ```
-Use o seguinte comando para salvar permanentemente:
+- Use o seguinte comando para salvar permanentemente:
 ```
 git config --global credential.helper store
 ```
