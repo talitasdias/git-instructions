@@ -67,5 +67,5 @@ git config --global credential.helper cache
 git config --global credential.helper store
 ```
 2. Realize uma operação que seja necessário uma autenticação com o GitHub:
-Você pode por exemplo criar um novo repositório privado em seu GitHub e tentar cloná-lo em sua máquina através do comando git clone
+- Você pode por exemplo criar um novo repositório privado em seu GitHub e tentar cloná-lo em sua máquina através do comando git clone
 3. Pronto! A partir dos próximos comandos, o git não irá mais solicitar as credenciais.
