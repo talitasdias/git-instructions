@@ -26,6 +26,7 @@ sudo apt install git
 git config --global user.name SEUNOMEAQUI
 ```
 Isso é útil para garantir que os commits feitos em todos os seus repositórios Git usem o mesmo nome de usuário.
+
 2. Você pode também configurar um e-mail:
 ```
 git config --global user.email EMAIL@EMAIL.COM
