@@ -46,14 +46,20 @@ Os tokens são úteis porque podem guardar suas informações sem precisar salva
 ### Criando um Token
 1. Faça login na sua conta [GitHub](https://github.com/)
 2. Na página principal, selecione seu usuário no canto superior direito e clique na opção Settings:
-<img src='img/Slide1.jpg' width='100%'>
-4. Na página que irá abrir, clique na opção Developer settings:
-5. Selecione a opção Personal access tokens > Tokens (classic):
-6. Clique em Generate new token, escolha a opção Generate new token (classic):
-7. Dê um nome para seu token e defina seu tempo de expiração
-8. Marque as permissões que você deseja conceder ao token. Detalhe, para usar seu token para acessar repositórios, selecione a opção repo.
-9. Por fim, ao selecionar todas as opções escolhidas, clique em Generate token ao final da tela.
-10. Prontinho, irá aparecer um código para que você possa usar como senha sempre (até a data de expiração) que precisar realizar operações como git clone, git push, git pull.
+<img src='img/Slide1.jpg' width='50%'>
+3. Na página que irá abrir, clique na opção Developer settings:
+<img src='img/Slide2.jpg' width='50%'>
+4. Selecione a opção Personal access tokens > Tokens (classic):
+<img src='img/Slide3.jpg' width='50%'>
+5. Clique em Generate new token, escolha a opção Generate new token (classic):
+<img src='img/Slide4.jpg' width='50%'>
+6. Dê um nome para seu token e defina seu tempo de expiração:
+<img src='img/Slide5.jpg' width='50%'>
+7. Marque as permissões que você deseja conceder ao token. Detalhe, para usar seu token para acessar repositórios, selecione a opção repo.
+<img src='img/Slide6.jpg' width='50%'>
+8. Por fim, ao selecionar todas as opções escolhidas, clique em Generate token ao final da tela.
+<img src='img/Slide7.jpg' width='50%'>
+9. Prontinho, irá aparecer um código para que você possa usar como senha sempre (até a data de expiração) que precisar realizar operações como git clone, git push, git pull.
 
 ### Editando a Credencial Git no Linux
 Para não precisar copiar e colar o Token sempre que for realizar uma autenticação, o Git armazena temporariamente ou permanentemente suas credenciais (como nome de usuário e senha). Para isso, realize os seguintes passos:
