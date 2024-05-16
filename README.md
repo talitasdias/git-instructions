@@ -4,6 +4,7 @@ Um guia com instruções básicas do Git
 ## Índice
 - [Como instalar o Git no Ubuntu](#como-instalar-o-git-no-ubuntu)
 - [Configurações básicas do Git](#configurações-básicas-do-git)
+- [Configurando a Autenticação do Git com Token no GitHub](#configurando-a-autenticação-do-git-com-token-no-gitHub)
 ______________________________________________________________________
 
 ## Como Instalar o Git no Ubuntu
@@ -32,3 +33,10 @@ Isso é útil para garantir que os commits feitos em todos os seus repositórios
 git config --global user.email EMAIL@EMAIL.COM
 ```
 Isso é útil para garantir que as contribuições e atividades sejam atribuídas corretamente a você nos repositórios Git.
+
+3. Execute o comando abaixo para tornar a branch main como padrão:
+```
+git config --global init.defaultBranch main
+```
+
+## Configurando a Autenticação do Git com Token no GitHub
