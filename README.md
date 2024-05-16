@@ -52,10 +52,11 @@ Os tokens são úteis porque podem guardar suas informações sem precisar salva
 6. Dê um nome para seu token e defina seu tempo de expiração
 7. Marque as permissões que você deseja conceder ao token. Detalhe, para usar seu token para acessar repositórios, selecione a opção repo.
 8. Por fim, ao selecionar todas as opções escolhidas, clique em Generate token ao final da tela.
-Prontinho, irá aparecer um código para que você possa usar como senha sempre (até a data de expiração) que precisar realizar operações como git clone, git push, git pull.
+9. Prontinho, irá aparecer um código para que você possa usar como senha sempre (até a data de expiração) que precisar realizar operações como git clone, git push, git pull.
 
 ### Editando a Credencial Git no Linux
 Para não precisar copiar e colar o Token sempre que for realizar uma autenticação, o Git armazena temporariamente ou permanentemente suas credenciais (como nome de usuário e senha). Para isso, realize os seguintes passos:
+
 1. Salve suas credenciais
 Use o seguinte comando para salvar temporariamente:
 ```
