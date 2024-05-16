@@ -2,45 +2,7 @@
 Um guia com instruções básicas do Git
 
 ## Índice
-- [Tema 1](#tema-1)
+- [Como instalar o Git no Ubuntu](#como-instalar-o-git-no-ubuntu)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Tema 1
+## Como Instalar o Git no Ubuntu
