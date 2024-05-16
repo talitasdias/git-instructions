@@ -10,10 +10,12 @@ Um guia com instruções básicas do Git
 ```
 sudo add-apt-repository ppa:git-core/ppa
 ```
+
 2. Em seguida, para garantir que o sistema tenha acesso às versões mais recentes dos pacotes disponíveis, execute a linha de comando:
 ```
 sudo apt update
 ```
+
 3. Por fim, instale o Git em sua máquina:
 ```
 sudo apt install git
