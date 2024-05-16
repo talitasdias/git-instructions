@@ -54,11 +54,11 @@ Os tokens são úteis porque podem guardar suas informações sem precisar salva
 5. Clique em Generate new token, escolha a opção Generate new token (classic):
 <img src='img/Slide4.jpg' width='50%'>
 6. Dê um nome para seu token e defina seu tempo de expiração:
-<img src='img/Slide5.jpg' width='50%'>
+<img src='img/Slide5.png' width='50%'>
 7. Marque as permissões que você deseja conceder ao token. Detalhe, para usar seu token para acessar repositórios, selecione a opção repo.
 <img src='img/Slide6.png' width='50%'>
 8. Por fim, ao selecionar todas as opções escolhidas, clique em Generate token ao final da tela.
-<img src='img/Slide7.png' width='50%'>
+<img src='img/Slide7.jpg' width='50%'>
 9. Prontinho, irá aparecer um código para que você possa usar como senha sempre (até a data de expiração) que precisar realizar operações como git clone, git push, git pull.
 
 ### Editando a Credencial Git no Linux
