@@ -1,4 +1,4 @@
-# <img href='https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png' width='20%'> Instruções Git
+# <img src='https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png' width='3%'> Instruções Git
 Um guia com instruções básicas do Git
 
 ## Índice
@@ -8,7 +8,7 @@ Um guia com instruções básicas do Git
 - [Configurando a Autenticação do Git com uma Chave SSH no GitHub](#configurando-a-autenticação-do-git-com-uma-chave-ssh-no-gitHub)
 ______________________________________________________________________
 
-## Como Instalar o Git no Ubuntu
+## <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/2048px-Logo-ubuntu_cof-orange-hex.svg.png' width='3%'> Como Instalar o Git no Ubuntu
 1. Abra o terminal (Ctrl + Alt + T) e execute o comando abaixo, que irá adicionar o PPA do Git aos repositórios APT do seu sistema Ubuntu, permitindo que você instale o Git mais recente via gerenciador de pacotes:
 ```
 sudo add-apt-repository ppa:git-core/ppa
