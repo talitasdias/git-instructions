@@ -1,4 +1,4 @@
-# Instruções Git
+# <img href='https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png' width='20%'> Instruções Git
 Um guia com instruções básicas do Git
 
 ## Índice
